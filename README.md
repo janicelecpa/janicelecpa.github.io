@@ -5,6 +5,7 @@
 - Proficient at influencing executive business decisions, creating financial dashboards and models, manipulating large datasets, and performing analytical work in high data volume environments.
 - Advanced Excel skills (Power Query, VBA, pivot tables and slicers, array functions) and solid experience with SQL, SAP, Tableau, Netsuite, Adaptive Insights, and Anaplan.
 
+
 #### Technical Skills: •	Microsoft Office Suite (macros, queries, lookup, pivot tables), DAX, M, SQL, Power BI, Alteryx, Anaplan, Tableau, Python for Financial Analysts (Udemy), SAP, Budgeting and Forecasting, Financial modeling, Data Analytics
 
 ## Education
