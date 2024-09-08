@@ -52,5 +52,3 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 [linkedin]: https://www.linkedin.com/in/janice-lan-le/
 
-
-![image](https://github.com/user-attachments/assets/7b337271-e780-421d-8c2d-108560f38e44)
