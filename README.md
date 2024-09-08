@@ -1,60 +1,55 @@
 <h1>Hi, I'm Janice! <br/><a >CPA</a>, <a >Strategy & Analytics </a>, <a >Ex-Big4 </a>, <a >M&A Transactions Advisory </a>, <a >NYU Stern</a>, <a >CFA level II candidate</a>
 
-# Data Scientist
+# About
+- Accounting/ Finance professional with experience in building a strong team, business partnering, defining, designing, and launching large scale automation projects, and financial planning and analysis in large public companies within the tech industry.
+- Proficient at influencing executive business decisions, creating financial dashboards and models, manipulating large datasets, and performing analytical work in high data volume environments.
+- Advanced Excel skills (Power Query, VBA, pivot tables and slicers, array functions) and solid experience with SQL, SAP, Tableau, Netsuite, Adaptive Insights, and Anaplan.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: •	Microsoft Office Suite (macros, queries, lookup, pivot tables), DAX, M, SQL, Power BI, Alteryx, Anaplan, Tableau, Python for Financial Analysts (Udemy), SAP, Budgeting and Forecasting, Financial modeling, Data Analytics
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- New York University – Stern School of Business – M.S. Accountancy								       		
+- Indiana University – Kelley School of Business – B.S. Finance, Accountancy
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Financial Operations Specialist, Business Strategy @ Samsung Semiconductor, Inc. (_March 2024 - Present_)**
+-	Oversee comprehensive business operations and project financial reviews, including in-depth financial statement analysis and comparative evaluations, ensuring accuracy and strategic alignment of 6 departments.
+-	Lead the tracking and analysis of monthly/ quarterly forecasting and the annual budgeting process by partnering with diverse cross-functional teams to critically assess and review business operations and spending data.
+-	Craft financial dashboards to business partners, influence effective cost reduction decisions for annual operating plan with $5M in potential savings annually.
+-	Design and develop compelling data visualizations and interactive dashboards using Tableau and Power BI to effectively communicate insights and drive data-driven decision-making to business partners and CFO.
+-	Spearhead the development of project spend dashboard showcasing flux analysis and KPIs, increasing operational efficiency by 20%.
+-	Automated monthly consolidation process using PQ, DAX, and M code, resulting in a 95% reduction in reporting time.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Senior Financial Analyst, M&A Advisory @ Deloitte & Touche LLP (_July 2021 - July 2023_)**
+-	Conducted comprehensive financial analysis on over 30 M&A transactions (combined value around $15 billion) to identify historical/ projected financial trends, and potential risks which impact valuation of the target company.
+-	Led meetings and interviewed executive management of target companies; effectively communicating complex financial information to clients and senior management, resulting in improved decision making and deal negotiations.
+-	Reviewed bankers’ financial forecasting model to evaluate the financial impact of different deal structures, resulting in cost savings of $15 million for a client during a merger transaction.
+-	Leveraged data analytics tools to analyze key industry trends and developed a comprehensive M&A Integration Playbook. Firm leaders presented the insights to the governance council at the 2023 US PE Governance & Growth Council event. 
+
+**Senior Tax Consultant @ Deloitte Tax LLP (_August 2018 - July 2021_)**
+-	Built Excel financial models to optimize the utilization of tax attributes, such as NOLs and foreign tax credits, in
+compliance with the CARES Act. Helped clients claim approximately $100 million in total savings.
+-	Participated in complex tax research projects for a wide range of tax issues related to business transactions and the tax implications of financing techniques for a variety of entities and their affiliates.
+-	Managed multiple cross-functional engagement teams, which includes archiving, scheduling, billing, and coordinating U.S.-India tax consultants to ensure integrity and timeliness on projects. 
+
+**Corporate Accountant @ RMC Property Group (_April 2015 - May 2017_)**
+-	Prepared monthly financial reports and executive-level presentations for a portfolio of 33 out of 103 shopping centers, worth of $65 million of listed properties, presented KPI and provided actionable recommendations to senior management.
+-	Collaborated with cross-functional teams to develop cash flow forecasting and budgeting models, resulting in a 10% improvement in forecast accuracy.
+-	Conducted in-depth OPEX variance analysis identifying cost-saving opportunities and implementing initiatives that resulted in $2 million in annual cost savings.
+-	Led the implementation of a business intelligence tool, enhanced data visualization capabilities and streamlined reporting processes, resulting in a 25% reduction in reporting time.
+
+**Residential Property Accountant @ RK Properties (_July 2013 - June 2014_)**
+-	Prepared eliminations/ consolidations, balance sheets, and cash flow statements for monthly and annual reporting, including analyzing accruals, lease agreements, asset depreciations, bank account reconciliation, and other estimations.
+-	Revamped monthly reporting to expedite data delivery, aiding leadership decisions and driving KPIs and cash flow targets.
+-	Conducted ad-hoc financial analyses and provided financial insights and recommendations to senior management and external stakeholders, contributing to the successful acquisition of a new capital project worth of $8 million.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Power BI - Waste Management Visualization
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
 
 
 
